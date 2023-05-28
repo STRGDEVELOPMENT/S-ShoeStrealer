@@ -1,9 +1,9 @@
-# S-ShoeStrealer 👟
-`Optimized 🗸 `
+- # S-ShoeStrealer 👟
+Optimized 🗸 
 
-`Works With : Standalone 🗸 , QB 🗸 , Esx 🗸 & Any Others 🗸 `
+Works With : Standalone 🗸 , QB 🗸 , Esx 🗸 & Any Others 🗸 
 
-# Installation ⬇️
+- # Installation ⬇️
 
 `Extract The Folder -> S-ShoeStealer ` 
 
@@ -11,23 +11,23 @@
 
 `Finally Restart Your Server `
 
-# Version 1.0.0 ✅
+- # Version 1.0.0 ✅
 
-`Bugs : N/A `
+Bugs : N/A
 
-# Help 📚
+- # Help 📚
 
-` How To Use `
+ How To Use 
 
 1. Once The Script has been placed into server resources restart your server 
 2. use the command `/stealshoes` to steal a players Shoes 
 
-#  Disclaimer 👍 
+- #  Disclaimer 👍 
 
-` ( Script Will not Work With Peds / Ai . Only Players ) `
+ ( Script Will not Work With Peds / Ai . Only Players ) 
 
 
 
-# Credits🙏
+- # Credits🙏
 
 `Special Thanks To JL For The Insparation For The Script `
